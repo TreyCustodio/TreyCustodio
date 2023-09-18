@@ -1,4 +1,6 @@
-### Hi there 👋
+### Trey Custodio
+
+Looking forward to learning how to develop the perfect software.
 
 <!--
 **TreyCustodio/TreyCustodio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
