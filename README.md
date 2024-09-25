@@ -1,7 +1,7 @@
 ### Trey Custodio
 
 Student in pursuit of a Bachelor of Science in Computer Science at Washington and Lee University, class of 2026.
-Training to develop the perfect, scalable, best tested, most efficient software through video game design.
+Training to develop the perfect, scalable, best tested, most efficient software. Avid game developer.
 
 <!--
 **TreyCustodio/TreyCustodio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
