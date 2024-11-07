@@ -12,7 +12,7 @@ which is essentially a two-man team consisting of myself and my artistically ade
 
 If you are interested in making video games with me, please reach out! I would love to collaborate!
 Please follow my journey as I master the art of video game design!
-
+<br>
 ##  Current Projects
 ###  Majestus - Projected Release Spring 2026
 - my current magnum opus, and the first video game I ever designed
@@ -25,6 +25,7 @@ Please follow my journey as I master the art of video game design!
 ###  War and Keys - Projected Release Winter 2025
 - a tower defense game centered around typing
 - will be released for PC before reformatted to run on mobile devices
+<br>
 ##  Industry Interests
 - Video Game Design
 - Software Development
