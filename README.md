@@ -1,9 +1,11 @@
 # Trey Custodio
 
 ##  Junior at Washington and Lee University (Graduating May 2026)<br>
-### Bachelor of Science in Computer Science<br>
-### Creative Writing Minor<br>
-### German Minor
+### - Bachelor of Science in Computer Science<br>
+### - Creative Writing Minor<br>
+### - German Minor
+
+<br>
 
 ##  Bio
 From Virginia Beach, VA, I develop video games, wrestle, and passionately study Computer Science.
