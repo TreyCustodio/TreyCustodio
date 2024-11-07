@@ -13,6 +13,18 @@ which is essentially a two-man team consisting of myself and my artistically ade
 If you are interested in making video games with me, please reach out! I would love to collaborate!
 Please follow my journey as I master the art of video game design!
 
+##  Current Projects
+###  Majestus - Projected Release Spring 2026
+- my current magnum opus, and the first video game I ever designed
+- a story-driven action-adventure RPG inspired by The Legend of Zelda and Final Fantasy
+- will be released for Nintendo Switch, Xbox, Playstation, and PC platforms
+###  Yokai Assassination - Projected Release Winter 2025
+- will be my first game published for ios/mobile devices
+- an action/detective game where you eliminate ghostly imposters
+- but don't get tricked into killing your friends!
+###  War and Keys - Projected Release Winter 2025
+- a tower defense game centered around typing
+- will be released for PC before reformatted to run on mobile devices
 ##  Industry Interests
 - Video Game Design
 - Software Development
