@@ -11,6 +11,7 @@ My Github portfolio consists of video games that I will release under the name *
 which is essentially a two-man team consisting of myself and my artistically adept friend, Colin Bridges.
 
 If you are interested in making video games with me, please reach out! I would love to collaborate!
+Please follow my journey as I master the art of video game design!
 
 ##  Industry Interests
 - Video Game Design
