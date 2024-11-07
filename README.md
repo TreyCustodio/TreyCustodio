@@ -4,10 +4,22 @@
 ### Bachelor of Science in Computer Science<br>
 ### Creative Writing Minor<br>
 ### German Minor
--
 
-Student in pursuit of a Bachelor of Science in Computer Science at Washington and Lee University, class of 2026.
-Training to develop the perfect, scalable, best tested, most efficient software. Avid game developer.
+##  Bio
+From Virginia Beach, VA, I develop video games, wrestle, and passionately study Computer Science.
+My Github portfolio consists of video games that I will release under the name **YungTreyGames**,
+which is essentially a two-man team consisting of myself and my artistically adept friend, Colin Bridges.
+
+If you are interested in making video games with me, please reach out! I would love to collaborate!
+
+##  Industry Interests
+- Video Game Design
+- Software Development
+- Machine Learning
+
+##  Research Interests
+- Human Computer Interaction (HCI)
+- User Experience Design (UXD)
 
 <!--
 **TreyCustodio/TreyCustodio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
