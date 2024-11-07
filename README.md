@@ -25,7 +25,10 @@ Please follow my journey as I master the art of video game design!
 ###  War and Keys - Projected Release Winter 2025
 - a tower defense game centered around typing
 - will be released for PC before reformatted to run on mobile devices
+
+
 <br>
+
 ##  Industry Interests
 - Video Game Design
 - Software Development
