@@ -12,7 +12,9 @@ which is essentially a two-man team consisting of myself and my artistically ade
 
 If you are interested in making video games with me, please reach out! I would love to collaborate!
 Please follow my journey as I master the art of video game design!
+
 <br>
+
 ##  Current Projects
 ###  Majestus - Projected Release Spring 2026
 - my current magnum opus, and the first video game I ever designed
@@ -33,6 +35,8 @@ Please follow my journey as I master the art of video game design!
 - Video Game Design
 - Software Development
 - Machine Learning
+
+<br>
 
 ##  Research Interests
 - Human Computer Interaction (HCI)
