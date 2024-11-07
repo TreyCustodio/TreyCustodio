@@ -1,8 +1,8 @@
 # Trey Custodio
 
-##  Junior at Washington and Lee University (Graduating May 2026)
-Bachelor of Science in Computer Science
-Creative Writing Minor
+##  Junior at Washington and Lee University (Graduating May 2026)<br>
+Bachelor of Science in Computer Science<br>
+Creative Writing Minor<br>
 German Minor
 -
 
