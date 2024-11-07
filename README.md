@@ -1,4 +1,10 @@
-### Trey Custodio
+# Trey Custodio
+
+##  Junior at Washington and Lee University (Graduating May 2026)
+Bachelor of Science in Computer Science
+Creative Writing Minor
+German Minor
+-
 
 Student in pursuit of a Bachelor of Science in Computer Science at Washington and Lee University, class of 2026.
 Training to develop the perfect, scalable, best tested, most efficient software. Avid game developer.
