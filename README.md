@@ -18,6 +18,8 @@ Please follow my journey as I master the art of video game design!
 <br>
 
 ##  Current Projects
+For a great example of how I code, see **War and Keys**
+
 ###  Majestus - Projected Release Spring 2026
 - my current magnum opus, and the first video game I ever designed
 - a story-driven action-adventure RPG inspired by The Legend of Zelda and Final Fantasy
