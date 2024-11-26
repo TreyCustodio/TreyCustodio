@@ -21,7 +21,7 @@ Please follow my journey as I master the art of video game design!
 For a great example of how I code, see **War and Keys**
 
 ###  Majestus - Projected Release Spring 2026
-- my current magnum opus, and the first video game I ever designed
+- my biggest passion project, and the first video game I ever designed
 - a story-driven action-adventure RPG inspired by The Legend of Zelda and Final Fantasy
 - will be released for Nintendo Switch, Xbox, Playstation, and PC platforms
 ###  Yokai Assassination - Projected Release Winter 2025
