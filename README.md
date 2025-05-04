@@ -32,6 +32,10 @@ For a great example of how I code, see **War and Keys**
 - a tower defense game centered around typing
 - will be released for PC before reformatted to run on mobile devices
 
+###  Musical Synthesizer
+- allows the user to synthesize different instrumental sounds by applying math to sine waves.
+- also allows the user to compose songs, allowing them to specify a bpm and build each measure of the song.
+- this project is currently very rough, but I am working on reorganizing my code and creating a graphical user interface to simplify the process of sythesizing sounds and producing music.
 
 <br>
 
