@@ -17,7 +17,7 @@ For a great example of how I code in **Python**, see **Another March Through Rev
 ###  Audio Engineering Application
 - allows the user to synthesize different instrumental sounds by applying mathematical functions to sine waves
 - allows the user to compose music, allowing them to specify a bpm and build each measure of their score
-- the project is in a rough state; I am currently refactoring and creating a graphical user interface
+- currently refactoring and creating a graphical user interface
 ###  Majestus
 - the first video game I ever designed; a passion project that 
 - a story-driven action-adventure RPG inspired by The Legend of Zelda and Final Fantasy
