@@ -11,9 +11,13 @@ In completing my rigorous liberal arts education at Washington and Lee Universit
 If you are interested in making video games with me, please reach out! I would love to collaborate!
 Please follow my journey as I master the art of video game design!
 
-##  Current Video Games
+##  Current Game-related Projects
 For a great example of how I code in **Python**, see **Another March Through Reverie** and **War and Keys**
 
+###  Audio Engineering Application
+- allows the user to synthesize different instrumental sounds by applying mathematical functions to sine waves
+- allows the user to compose music, allowing them to specify a bpm and build each measure of their score
+- the project is in a rough state; I am currently refactoring and creating a graphical user interface
 ###  Majestus
 - the first video game I ever designed; a passion project that 
 - a story-driven action-adventure RPG inspired by The Legend of Zelda and Final Fantasy
@@ -26,10 +30,6 @@ For a great example of how I code in **Python**, see **Another March Through Rev
 - will be released for PC before reformatted to run on mobile devices
 ###  Another March Through Reverie
 - a short, story-driven Metroidvania with an emphasis on speed and rapid progression
-###  Audio Engineering Application
-- allows the user to synthesize different instrumental sounds by applying mathematical functions to sine waves
-- allows the user to compose music, allowing them to specify a bpm and build each measure of their score
-- the project is in a rough state; I am currently refactoring and creating a graphical user interface
 <br>
 
 ##  Industry Interests
