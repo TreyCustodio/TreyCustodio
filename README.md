@@ -3,7 +3,6 @@
 ##  Senior at Washington and Lee University (Graduating May 2026)<br>
 - B.A. Computer Science<br>
 - Minors in Creative Writing and German
-<br>
 
 ##  Bio
 I'm born and raised Virginia Beach, VA, where music played a key role in my upbringing!<br>
@@ -11,7 +10,7 @@ I develop video games, wrestle, read Existentialist Philosophy, and passionately
 During my liberal arts education at Washington and Lee University, I developed my artistic and linguistic skills while studying Computer Science.<br>
 I now tirelessly blend my musical, writing, UI design, and programming skills to create video games.<br>
 I am interested in cybsecurity as well as the structure of the internet, as these two entities will continue to play dominant roles in our lives as technology advances rapidly.<br>
-My Github portfolio consists of projects I have completed during my undergraduate study as wel as video games that I developed independently.
+My Github portfolio consists of projects I have completed during my undergraduate study as wel as video games that I developed independently.<br>
 
 If you are interested in making video games with me, please reach out! I would love to collaborate!
 Please follow my journey as I master the art of video game design!
