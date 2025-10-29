@@ -11,33 +11,32 @@ In completing my rigorous liberal arts education at Washington and Lee Universit
 If you are interested in making video games with me, please reach out! I would love to collaborate!
 Please follow my journey as I master the art of video game design!
 
-##  Current Projects
-For a great example of how I code, see **War and Keys**
+##  Current Video Games
+For a great example of how I code in **Python**, see **Another March Through Reverie** and **War and Keys**
 
-###  Majestus - Projected Release Spring 2026
-- my biggest passion project, and the first video game I ever designed
+###  Majestus
+- the first video game I ever designed; a passion project that 
 - a story-driven action-adventure RPG inspired by The Legend of Zelda and Final Fantasy
 - will be released for Nintendo Switch, Xbox, Playstation, and PC platforms
-###  Yokai Assassination - Projected Release Winter 2025
-- will be my first game published for ios/mobile devices
+###  Yokai Assassination
 - an action/detective game where you eliminate ghostly imposters
-- but don't get tricked into killing your friends!
-###  War and Keys - Projected Release Winter 2025
+- but don't get tricked into harming your friends!
+###  War and Keys
 - a tower defense game centered around typing
 - will be released for PC before reformatted to run on mobile devices
-
-###  Musical Synthesizer
-- allows the user to synthesize different instrumental sounds by applying math to sine waves.
-- also allows the user to compose songs, allowing them to specify a bpm and build each measure of the song.
-- this project is currently very rough, but I am working on reorganizing my code and creating a graphical user interface to simplify the process of sythesizing sounds and producing music.
-
+###  Another March Through Reverie
+- a short, story-driven Metroidvania with an emphasis on speed and rapid progression
+###  Audio Engineering Application
+- allows the user to synthesize different instrumental sounds by applying mathematical functions to sine waves
+- allows the user to compose music, allowing them to specify a bpm and build each measure of their score
+- the project is in a rough state; I am currently refactoring and creating a graphical user interface
 <br>
 
 ##  Industry Interests
 - Video Game Design
-- Software Development
-- Machine Learning
-
+- Cybersecurity
+- Web Development
+- User Experience Design
 <br>
 
 ##  Research Interests
