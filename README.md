@@ -1,19 +1,20 @@
 # Trey Custodio
 
-##  Senior at Washington and Lee University (Graduating May 2026)<br>
-- B.A. Computer Science<br>
-- Minors in Creative Writing and German
+##  Master's Student at Old Dominion University<br>
+- B.A. Computer Science with Minors in Creative Writing and German<br>
+- Pursuing an M.S. in Computer Science<br>
 
 ##  Bio
-I'm born and raised Virginia Beach, VA, where music played a key role in my upbringing! I develop video games, wrestle, read Existentialist Philosophy, and passionately study Computer Science.
-In completing my rigorous liberal arts education at Washington and Lee University, I developed my artistic and linguistic expertice while studying Computer Science. I now tirelessly blend my audio engineering, writing, UI design, and programming skills to create video games. I am interested in cybsecurity as well as the structure of the internet, as these two entities will continue to play dominant roles in our lives as technology advances rapidly. My Github portfolio consists of projects I have completed during my undergraduate study as wel as video games that I developed independently.<br>
+I was born and raised Virginia Beach, VA, where music played a key role in my upbringing! Beyond my computer-related studies, I develop video games, wrestle, produce beats, and read existentialist philosophy and dark fantasy novels.
+I sharpened my artistic and linguistic skills while earning my liberal arts degree at Washington and Lee University. My goal in life is to use my music, writing, UI design, and programming skills to create accessible software and video games.<br>
 
 If you are interested in making video games with me, please reach out! I would love to collaborate!
-Please follow my journey as I master the art of video game design!
+Thank you for following my journey!
 
 ##  Current Game-related Projects
-For a great example of how I code in **Python**, see **Another March Through Reverie** and **War and Keys**
+For a great example of how I code in **Python**, see my repos **Another March Through Reverie** and **War and Keys**
 
+<!--
 ###  Audio Engineering Application
 - allows the user to synthesize different instrumental sounds by applying mathematical functions to sine waves
 - allows the user to compose music, allowing them to specify a bpm and build each measure of their score
@@ -31,6 +32,7 @@ For a great example of how I code in **Python**, see **Another March Through Rev
 ###  Another March Through Reverie
 - a short, story-driven Metroidvania with an emphasis on speed and rapid progression
 <br>
+-->
 
 ##  Industry Interests
 - Video Game Design
