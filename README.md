@@ -11,6 +11,7 @@ I sharpened my artistic and linguistic skills while earning my liberal arts degr
 If you are interested in making video games with me, please reach out! I would love to collaborate!
 Thank you for following my journey!
 
+##
 For a great example of how I code in **Python**, see my repos **Another March Through Reverie** and **War and Keys**
 
 <!--
@@ -39,7 +40,6 @@ For a great example of how I code in **Python**, see my repos **Another March Th
 - Cybersecurity
 - Web Development
 - User Experience Design
-<br>
 
 ##  Research Interests
 - Human Computer Interaction (HCI)
