@@ -11,10 +11,10 @@ I sharpened my artistic and linguistic skills while earning my liberal arts degr
 If you are interested in making video games with me, please reach out! I would love to collaborate!
 Thank you for following my journey!
 
-##  Current Game-related Projects
 For a great example of how I code in **Python**, see my repos **Another March Through Reverie** and **War and Keys**
 
 <!--
+##  Current Game-related Projects
 ###  Audio Engineering Application
 - allows the user to synthesize different instrumental sounds by applying mathematical functions to sine waves
 - allows the user to compose music, allowing them to specify a bpm and build each measure of their score
