@@ -1,6 +1,6 @@
 # Trey Custodio
 
-##  Master's Student at Old Dominion University<br>
+##  Computer Science Master's Student at Old Dominion University<br>
 - B.A. Computer Science with Minors in Creative Writing and German<br>
 - Pursuing an M.S. in Computer Science<br>
 
